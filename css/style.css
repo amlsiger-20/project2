@@ -376,11 +376,11 @@ body{
     float: left;
     margin-left: 50px;
     color: #2b463c;
+     text-transform: capitalize;
 }
 .sec2-parent2{
     margin-top: 50px;
     overflow: auto;
-    text-transform: capitalize;
 }
 .sec2-img,.front,.back{
     width: 345px;
