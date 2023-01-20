@@ -22,8 +22,9 @@ body{
     text-decoration: none;
     font-size: 20px;
     display: block;
-    padding-top: 4px;
+    padding-top: 8px;
     color: #2b463c;
+    text-transform: capitalize;
 }
 .header-ul1,.header-ul2,.header-ul3{
     list-style: none;
@@ -34,6 +35,7 @@ body{
 .a-content{
     text-decoration: none;
     color: #2b463c;
+    text-transform: capitalize;
 }
 .header-content{
     width: 400px;
@@ -57,6 +59,7 @@ body{
    border-bottom: 1px dotted;
    padding-bottom: 7px;
    color: #2b463c;
+    text-transform: capitalize;
 }
 .home:hover .header-content{
     transform: scale(1);
@@ -377,6 +380,7 @@ body{
 .sec2-parent2{
     margin-top: 50px;
     overflow: auto;
+    text-transform: capitalize;
 }
 .sec2-img,.front,.back{
     width: 345px;
